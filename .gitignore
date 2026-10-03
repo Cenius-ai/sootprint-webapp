@@ -1,0 +1,18 @@
+# Local environment (never commit real configuration)
+.env
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Packaging / build output
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Local sweep logs created while trying the tool out
+/sweeps.json
+/my-sootprint-log/

@@ -1,0 +1,68 @@
+{
+  "format_version": 1,
+  "sweeps": [
+    {
+      "date": "2024-10-12",
+      "condition": 5,
+      "flue": "main flue",
+      "notes": "pre-season sweep, brushing only",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2024-12-08",
+      "condition": 4,
+      "flue": "main flue",
+      "notes": "half a bucket of soot, no glaze",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-01-19",
+      "condition": 3,
+      "flue": "main flue",
+      "notes": "creosote flakes on the damper, swept",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-02-14",
+      "condition": 3,
+      "flue": "rear flue",
+      "notes": "stove flue, baffle plate scraped",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-03-21",
+      "condition": 4,
+      "flue": "main flue",
+      "notes": "end of season, light ash only",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-04-02",
+      "condition": 2,
+      "flue": "rear flue",
+      "notes": "damp wood over winter, glaze on the top third",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-09-27",
+      "condition": 5,
+      "flue": "main flue",
+      "notes": "autumn check before lighting, flue clean",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-11-15",
+      "condition": 1,
+      "flue": "main flue",
+      "notes": "heavy glaze, birds nest cleared from the pot",
+      "logged_at": "2026-10-03T21:13:38+00:00"
+    },
+    {
+      "date": "2025-11-29",
+      "condition": 4,
+      "flue": "main flue",
+      "notes": "two weeks after the glaze removal, running clean",
+      "logged_at": "2026-10-03T21:13:39+00:00"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# Runtime dependencies: none. Sootprint is standard library only.
+#
+# The single entry below is the test runner, so `pip install -r requirements.txt`
+# gives you a runnable `pytest` for the committed suite in tests/.
+pytest==9.1.1
