@@ -87,7 +87,7 @@ _Full guide: [`USAGE.md`](USAGE.md)_
 
 ## Architecture
 
-Folder layout: `examples/`, `tests/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. Built in Full-stack app (22 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Folder layout: `examples/`, `tests/`. `install.sh` provisions dependencies and seeds demo data so the app starts with something real to explore. Built in Full-stack app (13 files). See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## FAQ
 
